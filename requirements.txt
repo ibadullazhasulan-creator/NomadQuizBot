@@ -1,2 +1,2 @@
-pip install pyTelegramBotAPI openai
-python bot.py
+pyTelegramBotAPI
+openai
